@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A student from a godforsaken university.</h3>
 
-- 🔭 I’m currently working on [mandelbrot](https://github.com/pprettysimpple/mandelbrot)
+- There is my last project [mandelbrot-set-render](https://github.com/pprettysimpple/mandelbrot)
 
-- 🌱 I’m currently learning **C++, Rust**
+- Currently learning languages **C++, Rust**
 
-- 📫 How to reach me **Tg: @pprettysimpple**
+- Contact me with Telegram **@pprettysimpple**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
