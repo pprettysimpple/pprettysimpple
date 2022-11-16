@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A student from a godforsaken university.</h3>
 
-- There is my last project [mandelbrot-set-render](https://github.com/pprettysimpple/mandelbrot)
+- There is my last project [rust-raytracer](https://github.com/pprettysimpple/raytracer)
 
-- Currently learning languages **C++, Rust**
+- Currently learning languages **Rust**
 
 - Contact me with Telegram **@pprettysimpple**
 
