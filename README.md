@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kirill</h1>
-<h3 align="center">A student from a godforsaken university.</h3>
+<h1 align="center">Hi 👋</h1>
 
-- There is my last project [piex](https://github.com/pprettysimpple/piex)
-
-- Currently learning languages **Zig**
+- There is my last project [jzvm](https://github.com/pprettysimpple/jzvm)
 
 - Contact me with Telegram **@pprettysimpple**
 
